@@ -112,6 +112,7 @@ header {
 
 .header-image img {
     max-width: 450px;
+    border-radius: 21px;
     filter: drop-shadow(0 20px 40px rgba(0,0,0,0.15));
     animation: float 6s ease-in-out infinite;
 }
